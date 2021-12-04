@@ -1,2 +1,6 @@
 Hola koders 
+<<<<<<< HEAD
 Holaposibilidad1
+=======
+Hola desde posibilidad2De2
+>>>>>>> posibilidad2De2
